@@ -1,4 +1,4 @@
-# minima
+# Bertie
 
 *A custom theme for Jekyll based on Minima and Athena.
 
