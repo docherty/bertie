@@ -2,6 +2,7 @@
 
 *A custom theme for Jekyll based on Minima and Athena.
 
+[![Gem Version](https://badge.fury.io/rb/bertie.svg)](https://badge.fury.io/rb/bertie)
 [Theme preview](https://jmd.is/)
 
 ![minima theme preview](/screenshot.png)
